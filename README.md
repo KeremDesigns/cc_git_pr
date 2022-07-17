@@ -1,1 +1,1 @@
-# cc_git_pr
+Hello Git and Git Hub and Codecademy
